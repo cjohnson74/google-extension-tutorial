@@ -1,4 +1,4 @@
-# google-extension-tutorial
+# Google Extension Tutorial
 This is my first ever google extension and is the tutorial that google provides. This extension gives you the ability to change the background of the current webpage you are on. This demenstrates the power of google extensions and how you can use them to manipulate websites and add to already existing sites. It also has an options page that allows you to select the color you would like to change the background color to.
 
 
