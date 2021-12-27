@@ -31,6 +31,11 @@ function constructOptions(buttonColors) {
             button.dataset.color = buttonColor;
             button.style.backgroundColor = buttonColor;
 
+            // ...mark the currently selected color...
+            if (buttonColor === currentColor) {
+                button.classList.add(selectedClassName);
+            }
+
             // ...and register a listener for when that button is clicked
             button.addEventListener("click", handleButtonClick);
             page.appendChild(button);
