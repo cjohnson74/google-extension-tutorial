@@ -12,4 +12,4 @@ This is my first ever google extension and is the tutorial that google provides.
 
 <img width="1197" alt="Screen Shot 2021-12-27 at 2 11 52 PM" src="https://user-images.githubusercontent.com/52815609/147500647-b9ad3def-ee69-4a7b-adfa-533137fe9019.png">
 
-<img width="1199" alt="Screen Shot 2021-12-27 at 2 11 27 PM" src="https://user-images.githubusercontent.com/52815609/147500651-84299189-d5d7-4b4c-814d-a521113f9edc.png">
+<img width="1199" alt="Screen Shot 2021-12-27 at 2 14 14 PM" src="https://user-images.githubusercontent.com/52815609/147500725-68f23708-e948-4c90-b7fe-9b21191ff636.png">
