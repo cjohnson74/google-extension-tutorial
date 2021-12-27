@@ -14,7 +14,7 @@ This is my first ever google extension and is the tutorial that google provides.
 
 <img width="1199" alt="Screen Shot 2021-12-27 at 2 14 14 PM" src="https://user-images.githubusercontent.com/52815609/147500725-68f23708-e948-4c90-b7fe-9b21191ff636.png">
 
-## Getting Started
+# Getting Started
 
 ### If you would like to create this exact extension click the image below to get started!
 [![googledev](https://user-images.githubusercontent.com/52815609/147501023-1f3f7903-386d-4f0c-93d0-3c861f3123af.png)](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
